@@ -75,6 +75,7 @@ hr {
 }
 .image {
   width: 55%;
+  overflow-y: hidden;
 }
 .image img {
   width: 100%;
