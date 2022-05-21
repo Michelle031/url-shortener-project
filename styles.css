@@ -3,9 +3,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow-x:hidden;
   font-family: Poppins, sans-serif;
-  max-width: 100vh;
+  max-width: 100vw;
 }
 
 nav {
@@ -282,3 +281,4 @@ ul li:hover {
 .social i:hover {
   color: hsl(180, 66%, 49%);
 }
+
